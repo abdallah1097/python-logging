@@ -4,6 +4,14 @@
 
 [1]: https://pypi.org/project/google-cloud-logging/#history
 
+### [2.0.2](https://www.github.com/googleapis/python-logging/compare/v2.0.1...v2.0.2) (2020-12-08)
+
+
+### Bug Fixes
+
+* Add submodule imports for handlers to logging alias ([#117](https://www.github.com/googleapis/python-logging/issues/117)) ([6843a3a](https://www.github.com/googleapis/python-logging/commit/6843a3aee3c0908ddbc493e7a9ecdddd01df34ef))
+* Remove keyword only argument for RequestsMiddleware ([#113](https://www.github.com/googleapis/python-logging/issues/113)) ([e704f28](https://www.github.com/googleapis/python-logging/commit/e704f287a40db38d0da42fa5e21e7a9ef73922ec))
+
 ### [2.0.1](https://www.github.com/googleapis/python-logging/compare/v2.0.0...v2.0.1) (2020-12-02)
 
 
